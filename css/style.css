@@ -7,4 +7,32 @@ header a:hover {
   opacity: 0.65;
 }
 
+footer {
+  background-color: #00476b;
+  font-family: "Teko", sans-serif;
+  font-size: 25px;
+  padding-top: 2rem;
+}
+footer .ul__social .social-media {
+  width: 60px;
+  height: 60px;
+  margin: 0 20px;
+  border: 1px solid #ffffff;
+  border-radius: 50%;
+  transition: all 0.5s;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+footer .ul__social .social-media a {
+  color: #ffffff;
+}
+footer .ul__social .social-media a:hover {
+  opacity: 0.65;
+}
+footer .ul__social .social-media a:hover .logo-social {
+  color: #ffffff;
+}
+
 /*# sourceMappingURL=style.css.map */
