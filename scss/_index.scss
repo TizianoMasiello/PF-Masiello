@@ -1,0 +1,30 @@
+.main__index {
+  font-family: "Teko", sans-serif;
+  font-size: 25px;
+  background-color: $color-primario;
+
+  .section-intro {
+    background-color: $color-extra;
+    .img__copa {
+      width: 30rem;
+    }
+  }
+
+  .sponsor {
+    background-color: $color-extra;
+
+    .naming__sponsor {
+      width: 20rem;
+      margin: auto;
+    }
+
+    .presenting__sponsor {
+      width: 25rem;
+      margin: auto;
+    }
+
+    .main__sponsor {
+      width: 6rem;
+    }
+  }
+}

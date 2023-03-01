@@ -35,4 +35,30 @@ footer .ul__social .social-media a:hover .logo-social {
   color: #ffffff;
 }
 
+.main__index {
+  font-family: "Teko", sans-serif;
+  font-size: 25px;
+  background-color: #00476b;
+}
+.main__index .section-intro {
+  background-color: #0bbad9;
+}
+.main__index .section-intro .img__copa {
+  width: 30rem;
+}
+.main__index .sponsor {
+  background-color: #0bbad9;
+}
+.main__index .sponsor .naming__sponsor {
+  width: 20rem;
+  margin: auto;
+}
+.main__index .sponsor .presenting__sponsor {
+  width: 25rem;
+  margin: auto;
+}
+.main__index .sponsor .main__sponsor {
+  width: 6rem;
+}
+
 /*# sourceMappingURL=style.css.map */
