@@ -1,0 +1,16 @@
+.main__clubes {
+  background-color: $color-extra;
+
+  .clubes {
+    font-family: "Teko", sans-serif;
+    font-size: 30px;
+
+    .img__card {
+      width: 14rem;
+      height: 14rem;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 1rem;
+    }
+  }
+}

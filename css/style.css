@@ -61,4 +61,19 @@ footer .ul__social .social-media a:hover .logo-social {
   width: 6rem;
 }
 
+.main__clubes {
+  background-color: #0bbad9;
+}
+.main__clubes .clubes {
+  font-family: "Teko", sans-serif;
+  font-size: 30px;
+}
+.main__clubes .clubes .img__card {
+  width: 14rem;
+  height: 14rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1rem;
+}
+
 /*# sourceMappingURL=style.css.map */
