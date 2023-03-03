@@ -1,0 +1,19 @@
+.main__institucional {
+  background-color: $color-extra;
+
+  .institucional {
+    font-family: "Teko", sans-serif;
+    font-size: 25px;
+
+    .card__color {
+      background-color: $color-card;
+
+      .img__reglamentos {
+        width: 15rem;
+        height: 18rem;
+        margin-left: auto;
+        margin-right: auto;
+      }
+    }
+  }
+}
