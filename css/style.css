@@ -110,4 +110,10 @@ footer .ul__social .social-media a:hover .logo-social {
   border: 5px solid #ffffff;
 }
 
+.main__form {
+  background-color: #0bbad9;
+  font-family: "Teko", sans-serif;
+  font-size: 25px;
+}
+
 /*# sourceMappingURL=style.css.map */
