@@ -44,13 +44,13 @@ footer .ul__social .social-media a:hover .logo-social {
   background-color: #0bbad9;
 }
 .main__index .section-intro .img__copa {
-  width: 30rem;
+  width: 50rem;
 }
 .main__index .sponsor {
   background-color: #0bbad9;
 }
 .main__index .sponsor .naming__sponsor {
-  width: 20rem;
+  width: 25rem;
   margin: auto;
 }
 .main__index .sponsor .presenting__sponsor {
@@ -58,7 +58,7 @@ footer .ul__social .social-media a:hover .logo-social {
   margin: auto;
 }
 .main__index .sponsor .main__sponsor {
-  width: 6rem;
+  width: 8rem;
 }
 
 .main__clubes {
@@ -119,6 +119,11 @@ footer .ul__social .social-media a:hover .logo-social {
 @media (max-width: 576px) {
   footer .ul__social .social-media {
     margin: 0 0px;
+  }
+}
+@media (max-width: 576px) {
+  .text-intro {
+    font-size: 23px;
   }
 }
 
