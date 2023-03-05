@@ -1,12 +1,12 @@
 {
-  "name": "pf-masiello",
+  "name": "liga-profesional-de-futbol",
   "version": "1.0.0",
-  "description": "",
+  "description": "Pagina de la Liga Profesional De Futbol Argentino, Todos los clubes de Primera, Imagenes, Reglamento, Noticias Y Pack Futbol",
   "main": "index.js",
   "scripts": {
     "compile": "sass --watch scss:css"
   },
   "keywords": [],
-  "author": "",
+  "author": "Masiello Tiziano Marcos",
   "license": "ISC"
 }
