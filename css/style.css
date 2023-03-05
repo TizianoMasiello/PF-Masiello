@@ -115,6 +115,19 @@ footer .ul__social .social-media a:hover .logo-social {
   font-family: "Teko", sans-serif;
   font-size: 25px;
 }
+.main__form .btn__transition {
+  padding: 2rem 6rem;
+  background: #0bbad9;
+  border-color: #ffffff;
+  color: white;
+  font-size: 1.8rem;
+  cursor: pointer;
+  transition: all 2s ease;
+}
+.main__form .btn__transition:hover {
+  background-color: #ffffff;
+  color: #0bbad9;
+}
 
 @media (max-width: 576px) {
   footer .ul__social .social-media {
@@ -124,6 +137,12 @@ footer .ul__social .social-media a:hover .logo-social {
 @media (max-width: 576px) {
   .text-intro {
     font-size: 23px;
+  }
+}
+@media (max-width: 576px) {
+  .card__pack-futbol {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
   }
 }
 
